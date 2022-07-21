@@ -4,7 +4,7 @@
 
 ### This app will prompt notifications for the temperature of the cites when certain conditions meets and stored it in database.
 
- Clone the repository by typing ***"git clone https://github.com/zubairwazir/Flask-Weather-Tracking-App.git "***
+ Clone the repository by typing ***"git clone git@github.com:zubairwazir/Flask-Weather-Notification-App.git "***
 
  Open Terminal/Command Prompt
 
